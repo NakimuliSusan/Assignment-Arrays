@@ -16,7 +16,7 @@ fun Orignal () {
 
 }
 fun reShuffle (num:Array<Int>) {
-    var result = num[2] + num[5]
+    var result = num[1] + num[4]
     println(result)
     var index = num.indexOf(158)
     println(index)
