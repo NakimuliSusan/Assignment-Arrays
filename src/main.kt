@@ -2,7 +2,7 @@ fun main () {
     myArray(arrayOf("Susan","Tessa","Eunice","Ryan"))
     Orignal()
     reShuffle(arrayOf( 32,17,4,213,78,43,90,31,3,73,11,158,62))
-    joined(arrayOf("Mary","Susan","Brenda","Grace"))
+    joined(arrayOf("Susan","Brenda","Grace"))
 }
 fun myArray (names:Array<String>) {
     println(names.contentToString())
